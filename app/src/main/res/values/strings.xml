@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="title">Find Your Brew~~~</string>
+    <string name="button1">Lets get it!</string>
+    <string name= "second_activity">Second Activity</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="fourth_activity">Fourth Activity</string>
+</resources>
